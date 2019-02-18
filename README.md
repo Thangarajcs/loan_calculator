@@ -5,8 +5,6 @@ This project is developed using react js.Loan amount and months will be entered 
 
 ## Below are the instructions to run the App(if its cloned from the repository).
 
-In the project directory, you can run:
-
 ### `npm start`
 
 Runs the app in the development mode.<br>
