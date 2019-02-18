@@ -24,8 +24,9 @@ Your app is ready to be deployed!
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 ## API details-
-https://ftl-frontend-test.herokuapp.com/interest?amount=<amount>&numMonths=<month>
+
 This project used the below API.
+https://ftl-frontend-test.herokuapp.com/interest?amount=<amount>&numMonths=<month>
 Loan amount range:$500 to $5000.
 Tenure:6 to 24 months.
 
