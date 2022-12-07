@@ -38,6 +38,7 @@ class App extends Component {
           <div className="input_wrapper" id="sty">
                   <div className="amount panel">
                         <div className="range-slider">
+    <h1>hello</h1>
                             <label>Loan Amount :</label>
                             <input type="number" value={this.state.value} min="500" max="5000" onChange={this.handleChange}/>
                             <br/>
